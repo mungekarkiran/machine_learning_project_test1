@@ -41,7 +41,7 @@ if __name__ == '__main__':
 ## To create CI/CD pipeline with heroku we need 3 things:
 
 1. EMAIL_ID : mungekarkiran05@gmail.com
-2. HEROKU_API_KEY : 8cedc1b7-28b5-4bc1-8c3b-d426fdc63edc
+2. HEROKU_API_KEY : <HEROKU_API_KEY>
 3. HEROKU_APP_NAME : ml-cicd-pipeline
 
 ## Create a enpty **Dockerfile**
