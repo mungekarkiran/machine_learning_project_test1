@@ -10,9 +10,15 @@ This is machine_learning_project_test1
 
 ## Create virtual envirment
 
->> virtualenv --version
->> virtualenv venv
->> venv\Scripts\activate
+> virtualenv --version
 
-## Create requirment.txt
+> virtualenv venv
+
+> venv\Scripts\activate
+
+## Create requirement.txt
+
+>> pip install -r requirement.txt
+
+## Write flask code
 
