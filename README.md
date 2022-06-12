@@ -19,7 +19,7 @@ This is machine_learning_project_test1
 
 ## Create requirement.txt
 
-> pip install -r requirement.txt
+> pip install -r requirements.txt
 
 ## Write flask code
 '''
