@@ -82,3 +82,11 @@ venv/
 ## To stop docker conatiner
 
 > docker stop <container_id>
+
+
+
+## 18062022
+
+python .\setup.py install
+
+pip install -e .
