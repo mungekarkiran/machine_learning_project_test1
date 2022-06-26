@@ -21,6 +21,9 @@ class DataIngestion:
 
     def download_housing_data(self,) -> str:
         try:
+
+            # raise Exception('test exception')
+
             #extraction remote url to download dataset
             download_url = self.data_ingestion_config.dataset_download_url
 
@@ -47,6 +50,8 @@ class DataIngestion:
 
     def extract_tgz_file(self,tgz_file_path:str):
         try:
+            # raise Exception('test excepation')
+
             raw_data_dir = self.data_ingestion_config.raw_data_dir
 
             if os.path.exists(raw_data_dir):
